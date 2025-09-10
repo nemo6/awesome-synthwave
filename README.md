@@ -1,6 +1,6 @@
 # awesome-synthwave
 
-[playlist-youtube](https://www.youtube.com/playlist?list=PLvYUTIn8qT9awl9iJzYpfhoeZny94jdiV)
+[SYNTHWAVE I - YouTube](https://www.youtube.com/playlist?list=PLvYUTIn8qT9awl9iJzYpfhoeZny94jdiV)
 
 id | author | title | album
 -|-|-|-
@@ -47,6 +47,28 @@ id | author | title | album
 41 | SHAMMY | Koi Pond | Koi Pond
 42 | Overcrest | NAND | NAND
 43 | KING PALM | Runway | Air Travel
+
+# SYNTHWAVE II
+
+[SYNTHWAVE II - YouTube]([https://www.youtube.com/playlist?list=PLvYUTIn8qT9awl9iJzYpfhoeZny94jdiV](https://www.youtube.com/playlist?list=PLvYUTIn8qT9aPo_QuwCbi7EQZbjXblRqD))
+
+id | author | title | album
+-|-|-|-
+01 | RELAYER | Up In The Cloud | Stratford Ct. | Secret Selection #21-30
+02 | Donbor | Forget | Forget
+03 | Tonebox | Warp Drive | Nocturn
+04 | Nameless Computer | La Fin | La Fin
+05 | Donbor | Against the Law | Dead City
+06 | Nogymx | Nakatomi Plaza | Nakatomi Plaza
+07 | iZZi | Saffron | Saffron
+08 | Emil Rottmayer | Mega | Descend
+09 | Key Puncher | Voyager | S/T
+10 | Niky Nine | Exhausted Divinity | Suncore
+11 | Vogel | Imperivm | Imperivm
+12 | Lyde | Unrest | Unrest
+13 | Wice | Star Fighter | Magnatron 2.0
+14 | Wice | Melancholy | Unknown
+15 | Niky Nine | Prey | Suncore
 
 # old
 
