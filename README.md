@@ -19,7 +19,7 @@ id | author | title | album
 13 | Jeremiah Kane | No Turn Back | NEOANGELES
 14 | Miami Nights 1984 | Ocean Drive | Turbulence
 15 | Skykot | Timeform | Perfect Shape
-16 | M|O|O|N | Dust | Particles E.P.
+16 | M\|O\|O\|N | Dust | Particles E.P.
 17 | Cyter | Purple Skies | Purple Skies
 18 | Cyter | Amnesia | Amnesia
 19 | Cyter | Star Lullaby | Star Lullaby
