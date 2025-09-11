@@ -96,7 +96,7 @@ id | author | title | album
 id | author | title | album
 -|-|-|-
 01 | HOME | Head First ( Tiger Skywave Remix ) |
-02 | Mike Noise Low Earth Orbit
+02 | Mike Noise | Low Earth Orbit
 03 | Efence | Space Cruiser |
 04 | Z6B3R | From Outer Space |
 05 | HoodiAMV | Cyberpsychosis |
