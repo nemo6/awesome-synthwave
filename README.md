@@ -1,5 +1,7 @@
 # Awesome Synthwave
 
+# SYNTHWAVE I
+
 [SYNTHWAVE I - YouTube](https://www.youtube.com/playlist?list=PLvYUTIn8qT9awl9iJzYpfhoeZny94jdiV)
 
 id | author | title | album
