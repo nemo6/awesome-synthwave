@@ -1,4 +1,4 @@
-# awesome-synthwave
+# Awesome Synthwave
 
 [SYNTHWAVE I - YouTube](https://www.youtube.com/playlist?list=PLvYUTIn8qT9awl9iJzYpfhoeZny94jdiV)
 
@@ -50,7 +50,7 @@ id | author | title | album
 
 # SYNTHWAVE II
 
-[SYNTHWAVE II - YouTube]([https://www.youtube.com/playlist?list=PLvYUTIn8qT9awl9iJzYpfhoeZny94jdiV](https://www.youtube.com/playlist?list=PLvYUTIn8qT9aPo_QuwCbi7EQZbjXblRqD))
+[SYNTHWAVE II - YouTube](https://www.youtube.com/playlist?list=PLvYUTIn8qT9aPo_QuwCbi7EQZbjXblRqD)
 
 id | author | title | album
 -|-|-|-
@@ -69,6 +69,40 @@ id | author | title | album
 13 | Wice | Star Fighter | Magnatron 2.0
 14 | Wice | Melancholy | Unknown
 15 | Niky Nine | Prey | Suncore
+
+# SYNTHWAVE III
+
+[SYNTHWAVE III - YouTube](https://www.youtube.com/playlist?list=PLvYUTIn8qT9Zf-bmbN79sxoFdi9QVDG-g)
+
+id | author | title | album
+-|-|-|-
+01 | DipA | Orbital Resonance | Orbital Resonance
+02 | MitroWave, sidejoy. | Crimson Tears | Crimson Tears
+03 | Francois Smith | Odyssey | Odyssey
+04 | Extra Terra | DESTROY | DESTROY
+05 | SynthPrincipal | Sols Final Gift | Sol's Legacy
+06 | Evgeny Bardyuzha | Humanity | Humanity
+07 | Logan Gabriel | run.time | noise_array
+08 | Out Runner, Lyst | Cruise Control | Cruise Control
+09 | SPES INVICTA | Dream of June | Dream of June
+10 | SPES INVICTA | Zilbacore 2098 | Zilbacore 2098
+11 | SPES INVICTA | Activated,BMX Escape Mix | Activated
+12 | SPES INVICTA | Nascent World | Nascent World
+
+# SYNTHWAVE 0
+
+[SYNTHWAVE 0 - YouTube](https://www.youtube.com/playlist?list=PLvYUTIn8qT9aQfzaHjFEizYVhMlc1KFkj)
+
+id | author | title | album
+-|-|-|-
+01 | HOME | Head First ( Tiger Skywave Remix ) |
+02 | Mike Noise Low Earth Orbit
+03 | Efence | Space Cruiser |
+04 | Z6B3R | From Outer Space |
+05 | HoodiAMV | Cyberpsychosis |
+06 | Vosto | Night Drive Wanderers |
+07 | zan1ck | NEGATIVE WAVES |
+08 | Hyper Scape | Highway Racer |
 
 # old
 
