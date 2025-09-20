@@ -13,7 +13,7 @@ id | author | title | album
 07 | Lupus Nocte | Backseat Rider | Titan / Backseat Rider
 08 | The Toxic Avenger | My Only Chance | Furi (Original Game Soundtrack)
 09 | DJ Electrohead | Hit the Floor | Katana Zero (Original Soundtrack)
-10 | M|O|O|N | Paris | MOON E.P.
+10 | M\|O\|O\|N | Paris | MOON E.P.
 11 | Daniel Deluxe | Star Eater | Magnatron
 12 | Danny Baranowsky | Crypteque | Crypt of the Necrodancer (Original Game Soundtrack)
 13 | Jeremiah Kane | No Turn Back | NEOANGELES
